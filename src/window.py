@@ -64,9 +64,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-"""
-If the relationship depends on one person trying to help another person, the relationship is onesided which is useless.
-"""
